@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align="center">
-  Built with ❤︎ by <a href="waywedo.com">Dan Sargeant</a> and <a href="https://github.com/danspam/encrypts3bucket/graphs/contributors">contributors</a>
+  Built with ❤︎ by <a href="http://www.waywedo.com">Dan Sargeant</a> and <a href="https://github.com/danspam/encrypts3bucket/graphs/contributors">contributors</a>
 </div>
 
 <h2>Table of Contents</h2>
