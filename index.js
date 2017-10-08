@@ -17,8 +17,7 @@ function s3ListObjects(params, cb) {
             var contents = data.Contents;
             s3Objects = s3Objects.concat(contents);
             if (data.IsTruncated) {
-                // Set Marker to last returned key
-                params.Marker = contents[contents.length - 1].Key;
+                params.ContinuationToken = data.NextContinuationToken;
                 s3ListObjects(params, cb);
             } else {
                 cb();
