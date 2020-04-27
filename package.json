@@ -9,7 +9,7 @@
   "author": "Dan Sargeant",
   "license": "ISC",
   "devDependencies": {
-    "async": "^2.5.0",
-    "aws-sdk": "^2.111.0"
+    "async": "^3.2.0",
+    "aws-sdk": "^2.664.0"
   }
 }
